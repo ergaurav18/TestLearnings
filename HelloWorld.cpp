@@ -2,7 +2,7 @@
   
 using namespace std; 
   
-// main function - 
+// Gautravmain function - 
 // where the execution of program begins 
 int main() 
 { 
