@@ -2,8 +2,7 @@
   
 using namespace std; 
   
-// Gautravmain function - 
-// where the execution of program begins 
+
 int main() 
 { 
     // prints hello world 
