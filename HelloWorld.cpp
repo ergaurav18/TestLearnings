@@ -6,7 +6,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Hello World gaurav"; 
+    cout<<"Fucking ass Hello World gaurav"; 
       
     return 0; 
 } 
